@@ -1,0 +1,7 @@
+﻿  plugin.cpp
+  pluginobjects.cpp
+  RackAFXDLL.cpp
+  TestVST.cpp
+  Generating Code...
+     Creating library C:\Users\Jonathan_Moore\AppData\Roaming\RackAFX\RackAFXProjects\TestVST\x64\Debug\TestVST.lib and object C:\Users\Jonathan_Moore\AppData\Roaming\RackAFX\RackAFXProjects\TestVST\x64\Debug\TestVST.exp
+  TestVST.vcxproj -> C:\Users\Jonathan_Moore\AppData\Roaming\RackAFX\RackAFXProjects\TestVST\x64\Debug\TestVST.dll
